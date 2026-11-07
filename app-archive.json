@@ -8,7 +8,7 @@
       "platform": "windows",
       "channel": "stable",
       "mandatory": false,
-      "release": "https://github.com/LukeDevNation/scalepro_clients_releases/releases/latest/download/releases/1.0.4/windows/release.json"
+      "release": "https://raw.githubusercontent.com/LukeDevNation/scalepro_clients_releases/main/releases/1.0.4/windows/release.json"
     }
   ]
 }

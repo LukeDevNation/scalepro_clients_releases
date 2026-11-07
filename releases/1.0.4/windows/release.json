@@ -9,12 +9,12 @@
   "artifact": {
     "kind": "zip",
     "url": "https://raw.githubusercontent.com/LukeDevNation/scalepro_clients_releases/main/releases/1.0.4/windows/Scalepro%201%200-1.0.4-windows.zip",
-    "sha256": "7e35ad1bf136d64280edaeabf46bb21b4ce45e57a39533bee3e0f0309c4c4a38",
-    "length": 72522695
+    "sha256": "0ae4984d2e0f6494068b5b135ea8957b5c59ff7cf6996d7c8e35418eb9fb66b5",
+    "length": 72737819
   },
   "install": {
     "strategy": "wholeDirectoryReplace"
   },
   "minimumUpdaterVersion": "2.0.0",
-  "generatedAt": "2026-11-07T04:03:26.076680Z"
+  "generatedAt": "2026-11-07T05:06:23.147349Z"
 }

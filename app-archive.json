@@ -35,6 +35,14 @@
       "release": "https://raw.githubusercontent.com/LukeDevNation/scalepro_clients_releases/main/releases/1.0.13/windows/release.json"
     },
     {
+      "version": "1.0.14",
+      "buildNumber": 14,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://raw.githubusercontent.com/LukeDevNation/scalepro_clients_releases/main/releases/1.0.14/windows/release.json"
+    },
+    {
       "version": "1.0.4",
       "buildNumber": 5,
       "platform": "windows",

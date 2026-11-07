@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://github.com/LukeDevNation/scalepro_clients_releases/releases/latest/download/",
+  "localRoot": "C:\\Users\\LUQUE\\Desktop\\ScalePRO-v1.0\\dist\\desktop_updater",
+  "appArchive": {
+    "path": "app-archive.json",
+    "url": "https://github.com/LukeDevNation/scalepro_clients_releases/releases/latest/download/app-archive.json"
+  },
+  "release": {
+    "version": "1.0.4",
+    "buildNumber": 5,
+    "platform": "windows",
+    "channel": "stable",
+    "path": "releases/1.0.4/windows/release.json",
+    "url": "https://github.com/LukeDevNation/scalepro_clients_releases/releases/latest/download/releases/1.0.4/windows/release.json"
+  },
+  "artifact": {
+    "path": "releases/1.0.4/windows/Scalepro 1 0-1.0.4-windows.zip",
+    "url": "https://github.com/LukeDevNation/scalepro_clients_releases/releases/latest/download/releases/1.0.4/windows/Scalepro%201%200-1.0.4-windows.zip",
+    "kind": "zip",
+    "sha256": "6cad2d90cadc34b94a0fb68ef18bf45c130c690a2f96459abdca62750f47efa7",
+    "length": 72522649
+  }
+}

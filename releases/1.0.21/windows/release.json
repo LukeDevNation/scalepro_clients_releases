@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 3,
+  "packageId": "scalepro_1_0",
+  "appName": "Scalepro 1 0",
+  "version": "1.0.21",
+  "buildNumber": 21,
+  "platform": "windows",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://raw.githubusercontent.com/LukeDevNation/scalepro_clients_releases/main/releases/1.0.21/windows/Scalepro%201%200-1.0.21-windows.zip",
+    "sha256": "115d3f8b4481babbd9a7fc74fb65350ae2111435d2478759fa05ba67167a95c1",
+    "length": 72737692
+  },
+  "install": {
+    "strategy": "wholeDirectoryReplace"
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-11-08T04:24:51.628391Z"
+}
